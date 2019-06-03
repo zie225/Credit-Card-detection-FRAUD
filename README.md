@@ -1,0 +1,2 @@
+# Credit-Card-detection-FRAUD
+ Credit Card Fraud  We will be detecting credit card fraud based on the different features of our dataset with 3 different models. Here is the Logistic Regression one.  We're looking to minimize the False Negative Rate or FNR.  Since the dataset is unbalanced, we can try two techniques that may help us have better predictions:  - Adding some noise (gaussian) to the fraud data to create more and reduce the imbalance - Randomly sample the fraud data and train k models and average them out (or choose the best)
